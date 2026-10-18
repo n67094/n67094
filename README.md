@@ -1,6 +1,8 @@
 # Hello World! 👋
 
-I'm a developer driven by passion, with a love for **C and low-level programming**. For as long as I can remember, I've been fascinated by game development, which led me to my current project: **[Boxer](https://github.com/n67094/boxer)**, a 2D game library.
+I'm a developer driven by passion, with a love for **C and low-level programming**. 
+
+For as long as I can remember, I've been fascinated by game development, which led me to my current project: **[Boxer](https://github.com/n67094/boxer)**, a 2D game library.
 
 I'm here to **learn, share knowledge, and collaborate**, so any **feedback, suggestions, or issues** are always welcome.
 
